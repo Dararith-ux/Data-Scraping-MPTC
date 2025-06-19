@@ -178,3 +178,289 @@
 2025-06-10 21:00:16,917 - INFO - Final extraction: 3 English, 3 Khmer texts
 2025-06-10 21:00:16,918 - INFO - Extracted 3 English and 3 Khmer texts
 2025-06-10 21:00:16,922 - INFO - Results saved to fifth scrape.csv
+2025-06-19 22:25:30,000 - INFO - Processing URL 1/8: https://uat.moc.gov.kh/kh/news/2622
+2025-06-19 22:25:30,000 - INFO - Scraping URL: https://uat.moc.gov.kh/kh/news/2622
+2025-06-19 22:25:31,909 - INFO - Found 9 paragraph blocks
+2025-06-19 22:25:31,909 - INFO - No separator found, using language detection
+2025-06-19 22:25:31,910 - INFO - Final extraction: 4 English, 4 Khmer texts
+2025-06-19 22:25:31,910 - INFO - Extracted 4 English and 4 Khmer texts
+2025-06-19 22:25:31,910 - INFO - Processing URL 2/8: https://uat.moc.gov.kh/kh/news/2621
+2025-06-19 22:25:31,911 - INFO - Scraping URL: https://uat.moc.gov.kh/kh/news/2621
+2025-06-19 22:25:33,268 - INFO - Found 5 paragraph blocks
+2025-06-19 22:25:33,269 - INFO - No separator found, using language detection
+2025-06-19 22:25:33,272 - INFO - Final extraction: 2 English, 2 Khmer texts
+2025-06-19 22:25:33,273 - INFO - Extracted 2 English and 2 Khmer texts
+2025-06-19 22:25:33,273 - INFO - Processing URL 3/8: https://uat.moc.gov.kh/kh/news/2620
+2025-06-19 22:25:33,274 - INFO - Scraping URL: https://uat.moc.gov.kh/kh/news/2620
+2025-06-19 22:25:34,641 - INFO - Found 27 paragraph blocks
+2025-06-19 22:25:34,642 - INFO - No separator found, using language detection
+2025-06-19 22:25:34,642 - INFO - Final extraction: 13 English, 12 Khmer texts
+2025-06-19 22:25:34,643 - INFO - Extracted 13 English and 12 Khmer texts
+2025-06-19 22:25:34,643 - INFO - Processing URL 4/8: https://uat.moc.gov.kh/kh/news/2618
+2025-06-19 22:25:34,643 - INFO - Scraping URL: https://uat.moc.gov.kh/kh/news/2618
+2025-06-19 22:25:36,017 - INFO - Found 8 paragraph blocks
+2025-06-19 22:25:36,019 - INFO - No separator found, using language detection
+2025-06-19 22:25:36,021 - INFO - Final extraction: 4 English, 3 Khmer texts
+2025-06-19 22:25:36,022 - INFO - Extracted 4 English and 3 Khmer texts
+2025-06-19 22:25:36,022 - INFO - Processing URL 5/8: https://uat.moc.gov.kh/kh/news/2611
+2025-06-19 22:25:36,022 - INFO - Scraping URL: https://uat.moc.gov.kh/kh/news/2611
+2025-06-19 22:25:37,431 - INFO - Found 7 paragraph blocks
+2025-06-19 22:25:37,432 - INFO - No separator found, using language detection
+2025-06-19 22:25:37,433 - INFO - Final extraction: 3 English, 2 Khmer texts
+2025-06-19 22:25:37,434 - INFO - Extracted 3 English and 2 Khmer texts
+2025-06-19 22:25:37,435 - INFO - Processing URL 6/8: https://uat.moc.gov.kh/kh/news/2605
+2025-06-19 22:25:37,436 - INFO - Scraping URL: https://uat.moc.gov.kh/kh/news/2605
+2025-06-19 22:25:38,809 - INFO - Found 9 paragraph blocks
+2025-06-19 22:25:38,810 - INFO - No separator found, using language detection
+2025-06-19 22:25:38,810 - INFO - Final extraction: 4 English, 3 Khmer texts
+2025-06-19 22:25:38,811 - INFO - Extracted 4 English and 3 Khmer texts
+2025-06-19 22:25:38,811 - INFO - Processing URL 7/8: https://uat.moc.gov.kh/kh/news/2604
+2025-06-19 22:25:38,812 - INFO - Scraping URL: https://uat.moc.gov.kh/kh/news/2604
+2025-06-19 22:25:40,176 - INFO - Found 9 paragraph blocks
+2025-06-19 22:25:40,177 - INFO - No separator found, using language detection
+2025-06-19 22:25:40,178 - INFO - Final extraction: 4 English, 3 Khmer texts
+2025-06-19 22:25:40,178 - INFO - Extracted 4 English and 3 Khmer texts
+2025-06-19 22:25:40,178 - INFO - Processing URL 8/8: https://uat.moc.gov.kh/kh/news/2602
+2025-06-19 22:25:40,178 - INFO - Scraping URL: https://uat.moc.gov.kh/kh/news/2602
+2025-06-19 22:25:41,542 - INFO - Found 5 paragraph blocks
+2025-06-19 22:25:41,542 - INFO - No separator found, using language detection
+2025-06-19 22:25:41,543 - INFO - Final extraction: 2 English, 2 Khmer texts
+2025-06-19 22:25:41,543 - INFO - Extracted 2 English and 2 Khmer texts
+2025-06-19 22:25:41,545 - INFO - Results saved to 8LINK.csv
+2025-06-19 22:38:04,560 - INFO - Processing URL 1/7: https://uat.moc.gov.kh/kh/news/2600
+2025-06-19 22:38:04,561 - INFO - Scraping URL: https://uat.moc.gov.kh/kh/news/2600
+2025-06-19 22:38:06,535 - INFO - Found 21 paragraph blocks
+2025-06-19 22:38:06,536 - INFO - No separator found, using language detection
+2025-06-19 22:38:06,537 - INFO - Final extraction: 10 English, 9 Khmer texts
+2025-06-19 22:38:06,538 - INFO - Extracted 10 English and 9 Khmer texts
+2025-06-19 22:38:06,538 - INFO - Processing URL 2/7: https://uat.moc.gov.kh/kh/news/2599
+2025-06-19 22:38:06,539 - INFO - Scraping URL: https://uat.moc.gov.kh/kh/news/2599
+2025-06-19 22:38:07,938 - INFO - Found 5 paragraph blocks
+2025-06-19 22:38:07,939 - INFO - No separator found, using language detection
+2025-06-19 22:38:07,941 - INFO - Final extraction: 2 English, 2 Khmer texts
+2025-06-19 22:38:07,941 - INFO - Extracted 2 English and 2 Khmer texts
+2025-06-19 22:38:07,942 - INFO - Processing URL 3/7: https://uat.moc.gov.kh/kh/news/2588
+2025-06-19 22:38:07,943 - INFO - Scraping URL: https://uat.moc.gov.kh/kh/news/2588
+2025-06-19 22:38:09,332 - INFO - Found 5 paragraph blocks
+2025-06-19 22:38:09,332 - INFO - No separator found, using language detection
+2025-06-19 22:38:09,333 - INFO - Final extraction: 2 English, 2 Khmer texts
+2025-06-19 22:38:09,333 - INFO - Extracted 2 English and 2 Khmer texts
+2025-06-19 22:38:09,334 - INFO - Processing URL 4/7: https://uat.moc.gov.kh/kh/news/2587
+2025-06-19 22:38:09,334 - INFO - Scraping URL: https://uat.moc.gov.kh/kh/news/2587
+2025-06-19 22:38:10,699 - INFO - Found 7 paragraph blocks
+2025-06-19 22:38:10,702 - INFO - No separator found, using language detection
+2025-06-19 22:38:10,704 - INFO - Final extraction: 3 English, 3 Khmer texts
+2025-06-19 22:38:10,705 - INFO - Extracted 3 English and 3 Khmer texts
+2025-06-19 22:38:10,706 - INFO - Processing URL 5/7: https://uat.moc.gov.kh/kh/news/2585
+2025-06-19 22:38:10,708 - INFO - Scraping URL: https://uat.moc.gov.kh/kh/news/2585
+2025-06-19 22:38:12,119 - INFO - Found 9 paragraph blocks
+2025-06-19 22:38:12,122 - INFO - No separator found, using language detection
+2025-06-19 22:38:12,127 - INFO - Final extraction: 4 English, 4 Khmer texts
+2025-06-19 22:38:12,128 - INFO - Extracted 4 English and 4 Khmer texts
+2025-06-19 22:38:12,129 - INFO - Processing URL 6/7: https://uat.moc.gov.kh/kh/news/2584
+2025-06-19 22:38:12,130 - INFO - Scraping URL: https://uat.moc.gov.kh/kh/news/2584
+2025-06-19 22:38:13,473 - INFO - Found 7 paragraph blocks
+2025-06-19 22:38:13,474 - INFO - No separator found, using language detection
+2025-06-19 22:38:13,476 - INFO - Final extraction: 3 English, 3 Khmer texts
+2025-06-19 22:38:13,476 - INFO - Extracted 3 English and 3 Khmer texts
+2025-06-19 22:38:13,477 - INFO - Processing URL 7/7: https://uat.moc.gov.kh/kh/news/2583
+2025-06-19 22:38:13,478 - INFO - Scraping URL: https://uat.moc.gov.kh/kh/news/2583
+2025-06-19 22:38:14,861 - INFO - Found 12 paragraph blocks
+2025-06-19 22:38:14,870 - INFO - No separator found, using language detection
+2025-06-19 22:38:14,870 - INFO - Final extraction: 5 English, 5 Khmer texts
+2025-06-19 22:38:14,871 - INFO - Extracted 5 English and 5 Khmer texts
+2025-06-19 22:38:14,876 - INFO - Results saved to 7lINK.csv
+2025-06-19 22:49:10,235 - INFO - Processing URL 1/10: https://uat.moc.gov.kh/kh/news/2581
+2025-06-19 22:49:10,236 - INFO - Scraping URL: https://uat.moc.gov.kh/kh/news/2581
+2025-06-19 22:49:12,042 - INFO - Found 9 paragraph blocks
+2025-06-19 22:49:12,043 - INFO - No separator found, using language detection
+2025-06-19 22:49:12,043 - INFO - Final extraction: 4 English, 3 Khmer texts
+2025-06-19 22:49:12,044 - INFO - Extracted 4 English and 3 Khmer texts
+2025-06-19 22:49:12,044 - INFO - Processing URL 2/10: https://uat.moc.gov.kh/kh/news/2580
+2025-06-19 22:49:12,044 - INFO - Scraping URL: https://uat.moc.gov.kh/kh/news/2580
+2025-06-19 22:49:13,397 - INFO - Found 11 paragraph blocks
+2025-06-19 22:49:13,398 - INFO - No separator found, using language detection
+2025-06-19 22:49:13,398 - INFO - Final extraction: 5 English, 4 Khmer texts
+2025-06-19 22:49:13,399 - INFO - Extracted 5 English and 4 Khmer texts
+2025-06-19 22:49:13,399 - INFO - Processing URL 3/10: https://uat.moc.gov.kh/kh/news/2579
+2025-06-19 22:49:13,399 - INFO - Scraping URL: https://uat.moc.gov.kh/kh/news/2579
+2025-06-19 22:49:14,739 - INFO - Found 9 paragraph blocks
+2025-06-19 22:49:14,740 - INFO - No separator found, using language detection
+2025-06-19 22:49:14,740 - INFO - Final extraction: 4 English, 4 Khmer texts
+2025-06-19 22:49:14,741 - INFO - Extracted 4 English and 4 Khmer texts
+2025-06-19 22:49:14,741 - INFO - Processing URL 4/10: https://uat.moc.gov.kh/kh/news/2577
+2025-06-19 22:49:14,741 - INFO - Scraping URL: https://uat.moc.gov.kh/kh/news/2577
+2025-06-19 22:49:16,132 - INFO - Found 6 paragraph blocks
+2025-06-19 22:49:16,133 - INFO - No separator found, using language detection
+2025-06-19 22:49:16,135 - INFO - Final extraction: 3 English, 2 Khmer texts
+2025-06-19 22:49:16,136 - INFO - Extracted 3 English and 2 Khmer texts
+2025-06-19 22:49:16,137 - INFO - Processing URL 5/10: https://uat.moc.gov.kh/kh/news/2576
+2025-06-19 22:49:16,137 - INFO - Scraping URL: https://uat.moc.gov.kh/kh/news/2576
+2025-06-19 22:49:17,503 - INFO - Found 5 paragraph blocks
+2025-06-19 22:49:17,505 - INFO - No separator found, using language detection
+2025-06-19 22:49:17,507 - INFO - Final extraction: 2 English, 2 Khmer texts
+2025-06-19 22:49:17,507 - INFO - Extracted 2 English and 2 Khmer texts
+2025-06-19 22:49:17,508 - INFO - Processing URL 6/10: https://uat.moc.gov.kh/kh/news/2573
+2025-06-19 22:49:17,508 - INFO - Scraping URL: https://uat.moc.gov.kh/kh/news/2573
+2025-06-19 22:49:18,894 - INFO - Found 9 paragraph blocks
+2025-06-19 22:49:18,895 - INFO - No separator found, using language detection
+2025-06-19 22:49:18,896 - INFO - Final extraction: 4 English, 3 Khmer texts
+2025-06-19 22:49:18,897 - INFO - Extracted 4 English and 3 Khmer texts
+2025-06-19 22:49:18,897 - INFO - Processing URL 7/10: https://uat.moc.gov.kh/kh/news/2572
+2025-06-19 22:49:18,897 - INFO - Scraping URL: https://uat.moc.gov.kh/kh/news/2572
+2025-06-19 22:49:20,261 - INFO - Found 7 paragraph blocks
+2025-06-19 22:49:20,262 - INFO - No separator found, using language detection
+2025-06-19 22:49:20,262 - INFO - Final extraction: 3 English, 3 Khmer texts
+2025-06-19 22:49:20,263 - INFO - Extracted 3 English and 3 Khmer texts
+2025-06-19 22:49:20,263 - INFO - Processing URL 8/10: https://uat.moc.gov.kh/kh/news/2569
+2025-06-19 22:49:20,263 - INFO - Scraping URL: https://uat.moc.gov.kh/kh/news/2569
+2025-06-19 22:49:21,647 - INFO - Found 10 paragraph blocks
+2025-06-19 22:49:21,648 - INFO - No separator found, using language detection
+2025-06-19 22:49:21,649 - INFO - Final extraction: 6 English, 3 Khmer texts
+2025-06-19 22:49:21,649 - INFO - Extracted 6 English and 3 Khmer texts
+2025-06-19 22:49:21,649 - INFO - Processing URL 9/10: https://uat.moc.gov.kh/kh/news/2565
+2025-06-19 22:49:21,650 - INFO - Scraping URL: https://uat.moc.gov.kh/kh/news/2565
+2025-06-19 22:49:23,009 - INFO - Found 5 paragraph blocks
+2025-06-19 22:49:23,010 - INFO - No separator found, using language detection
+2025-06-19 22:49:23,010 - INFO - Final extraction: 3 English, 1 Khmer texts
+2025-06-19 22:49:23,011 - INFO - Extracted 3 English and 1 Khmer texts
+2025-06-19 22:49:23,011 - INFO - Processing URL 10/10: https://uat.moc.gov.kh/kh/news/2560
+2025-06-19 22:49:23,011 - INFO - Scraping URL: https://uat.moc.gov.kh/kh/news/2560
+2025-06-19 22:49:24,417 - INFO - Found 7 paragraph blocks
+2025-06-19 22:49:24,418 - INFO - No separator found, using language detection
+2025-06-19 22:49:24,419 - INFO - Final extraction: 3 English, 3 Khmer texts
+2025-06-19 22:49:24,419 - INFO - Extracted 3 English and 3 Khmer texts
+2025-06-19 22:49:24,424 - INFO - Results saved to 10lINK.csv
+2025-06-19 23:05:52,136 - INFO - Processing URL 1/22: https://uat.moc.gov.kh/kh/news/2558
+2025-06-19 23:05:52,137 - INFO - Scraping URL: https://uat.moc.gov.kh/kh/news/2558
+2025-06-19 23:05:54,206 - INFO - Found 4 paragraph blocks
+2025-06-19 23:05:54,207 - INFO - No separator found, using language detection
+2025-06-19 23:05:54,207 - INFO - Final extraction: 1 English, 2 Khmer texts
+2025-06-19 23:05:54,208 - INFO - Extracted 1 English and 2 Khmer texts
+2025-06-19 23:05:54,208 - INFO - Processing URL 2/22: https://uat.moc.gov.kh/kh/news/2555
+2025-06-19 23:05:54,208 - INFO - Scraping URL: https://uat.moc.gov.kh/kh/news/2555
+2025-06-19 23:05:55,585 - INFO - Found 7 paragraph blocks
+2025-06-19 23:05:55,586 - INFO - No separator found, using language detection
+2025-06-19 23:05:55,587 - INFO - Final extraction: 3 English, 3 Khmer texts
+2025-06-19 23:05:55,587 - INFO - Extracted 3 English and 3 Khmer texts
+2025-06-19 23:05:55,587 - INFO - Processing URL 3/22: https://uat.moc.gov.kh/kh/news/2553
+2025-06-19 23:05:55,588 - INFO - Scraping URL: https://uat.moc.gov.kh/kh/news/2553
+2025-06-19 23:05:56,973 - INFO - Found 7 paragraph blocks
+2025-06-19 23:05:56,974 - INFO - No separator found, using language detection
+2025-06-19 23:05:56,975 - INFO - Final extraction: 3 English, 2 Khmer texts
+2025-06-19 23:05:56,975 - INFO - Extracted 3 English and 2 Khmer texts
+2025-06-19 23:05:56,975 - INFO - Processing URL 4/22: https://uat.moc.gov.kh/kh/news/2550
+2025-06-19 23:05:56,975 - INFO - Scraping URL: https://uat.moc.gov.kh/kh/news/2550
+2025-06-19 23:05:58,353 - INFO - Found 5 paragraph blocks
+2025-06-19 23:05:58,354 - INFO - No separator found, using language detection
+2025-06-19 23:05:58,355 - INFO - Final extraction: 2 English, 2 Khmer texts
+2025-06-19 23:05:58,355 - INFO - Extracted 2 English and 2 Khmer texts
+2025-06-19 23:05:58,356 - INFO - Processing URL 5/22: https://uat.moc.gov.kh/kh/news/2548
+2025-06-19 23:05:58,357 - INFO - Scraping URL: https://uat.moc.gov.kh/kh/news/2548
+2025-06-19 23:05:59,694 - INFO - Found 5 paragraph blocks
+2025-06-19 23:05:59,694 - INFO - No separator found, using language detection
+2025-06-19 23:05:59,695 - INFO - Final extraction: 2 English, 2 Khmer texts
+2025-06-19 23:05:59,695 - INFO - Extracted 2 English and 2 Khmer texts
+2025-06-19 23:05:59,695 - INFO - Processing URL 6/22: https://uat.moc.gov.kh/kh/news/2543
+2025-06-19 23:05:59,696 - INFO - Scraping URL: https://uat.moc.gov.kh/kh/news/2543
+2025-06-19 23:06:01,040 - INFO - Found 9 paragraph blocks
+2025-06-19 23:06:01,041 - INFO - No separator found, using language detection
+2025-06-19 23:06:01,042 - INFO - Final extraction: 4 English, 3 Khmer texts
+2025-06-19 23:06:01,042 - INFO - Extracted 4 English and 3 Khmer texts
+2025-06-19 23:06:01,042 - INFO - Processing URL 7/22: https://uat.moc.gov.kh/kh/news/2541
+2025-06-19 23:06:01,042 - INFO - Scraping URL: https://uat.moc.gov.kh/kh/news/2541
+2025-06-19 23:06:02,382 - INFO - Found 5 paragraph blocks
+2025-06-19 23:06:02,383 - INFO - No separator found, using language detection
+2025-06-19 23:06:02,383 - INFO - Final extraction: 2 English, 2 Khmer texts
+2025-06-19 23:06:02,383 - INFO - Extracted 2 English and 2 Khmer texts
+2025-06-19 23:06:02,384 - INFO - Processing URL 8/22: https://uat.moc.gov.kh/kh/news/2526
+2025-06-19 23:06:02,384 - INFO - Scraping URL: https://uat.moc.gov.kh/kh/news/2526
+2025-06-19 23:06:03,779 - INFO - Found 9 paragraph blocks
+2025-06-19 23:06:03,780 - INFO - No separator found, using language detection
+2025-06-19 23:06:03,781 - INFO - Final extraction: 4 English, 3 Khmer texts
+2025-06-19 23:06:03,782 - INFO - Extracted 4 English and 3 Khmer texts
+2025-06-19 23:06:03,782 - INFO - Processing URL 9/22: https://uat.moc.gov.kh/kh/news/2525
+2025-06-19 23:06:03,782 - INFO - Scraping URL: https://uat.moc.gov.kh/kh/news/2525
+2025-06-19 23:06:05,132 - INFO - Found 2 paragraph blocks
+2025-06-19 23:06:05,133 - INFO - No separator found, using language detection
+2025-06-19 23:06:05,134 - INFO - Final extraction: 0 English, 2 Khmer texts
+2025-06-19 23:06:05,135 - INFO - Extracted 0 English and 2 Khmer texts
+2025-06-19 23:06:05,136 - INFO - Processing URL 10/22: https://uat.moc.gov.kh/kh/news/2524
+2025-06-19 23:06:05,136 - INFO - Scraping URL: https://uat.moc.gov.kh/kh/news/2524
+2025-06-19 23:06:06,471 - INFO - Found 7 paragraph blocks
+2025-06-19 23:06:06,471 - INFO - No separator found, using language detection
+2025-06-19 23:06:06,472 - INFO - Final extraction: 3 English, 2 Khmer texts
+2025-06-19 23:06:06,472 - INFO - Extracted 3 English and 2 Khmer texts
+2025-06-19 23:06:06,472 - INFO - Processing URL 11/22: https://uat.moc.gov.kh/kh/news/2523
+2025-06-19 23:06:06,473 - INFO - Scraping URL: https://uat.moc.gov.kh/kh/news/2523
+2025-06-19 23:06:07,797 - INFO - Found 4 paragraph blocks
+2025-06-19 23:06:07,797 - INFO - No separator found, using language detection
+2025-06-19 23:06:07,798 - INFO - Final extraction: 2 English, 2 Khmer texts
+2025-06-19 23:06:07,798 - INFO - Extracted 2 English and 2 Khmer texts
+2025-06-19 23:06:07,798 - INFO - Processing URL 12/22: https://uat.moc.gov.kh/kh/news/2522
+2025-06-19 23:06:07,799 - INFO - Scraping URL: https://uat.moc.gov.kh/kh/news/2522
+2025-06-19 23:06:09,138 - INFO - Found 4 paragraph blocks
+2025-06-19 23:06:09,138 - INFO - No separator found, using language detection
+2025-06-19 23:06:09,139 - INFO - Final extraction: 2 English, 2 Khmer texts
+2025-06-19 23:06:09,139 - INFO - Extracted 2 English and 2 Khmer texts
+2025-06-19 23:06:09,139 - INFO - Processing URL 13/22: https://uat.moc.gov.kh/kh/news/2521
+2025-06-19 23:06:09,140 - INFO - Scraping URL: https://uat.moc.gov.kh/kh/news/2521
+2025-06-19 23:06:10,505 - INFO - Found 2 paragraph blocks
+2025-06-19 23:06:10,505 - INFO - No separator found, using language detection
+2025-06-19 23:06:10,506 - INFO - Final extraction: 1 English, 1 Khmer texts
+2025-06-19 23:06:10,506 - INFO - Extracted 1 English and 1 Khmer texts
+2025-06-19 23:06:10,506 - INFO - Processing URL 14/22: https://uat.moc.gov.kh/kh/news/2522
+2025-06-19 23:06:10,506 - INFO - Scraping URL: https://uat.moc.gov.kh/kh/news/2522
+2025-06-19 23:06:11,866 - INFO - Found 4 paragraph blocks
+2025-06-19 23:06:11,867 - INFO - No separator found, using language detection
+2025-06-19 23:06:11,867 - INFO - Final extraction: 2 English, 2 Khmer texts
+2025-06-19 23:06:11,868 - INFO - Extracted 2 English and 2 Khmer texts
+2025-06-19 23:06:11,868 - INFO - Processing URL 15/22: https://uat.moc.gov.kh/kh/news/2520
+2025-06-19 23:06:11,868 - INFO - Scraping URL: https://uat.moc.gov.kh/kh/news/2520
+2025-06-19 23:06:13,214 - INFO - Found 2 paragraph blocks
+2025-06-19 23:06:13,216 - INFO - No separator found, using language detection
+2025-06-19 23:06:13,216 - INFO - Final extraction: 1 English, 1 Khmer texts
+2025-06-19 23:06:13,217 - INFO - Extracted 1 English and 1 Khmer texts
+2025-06-19 23:06:13,217 - INFO - Processing URL 16/22: https://uat.moc.gov.kh/kh/news/2519
+2025-06-19 23:06:13,218 - INFO - Scraping URL: https://uat.moc.gov.kh/kh/news/2519
+2025-06-19 23:06:14,584 - INFO - Found 2 paragraph blocks
+2025-06-19 23:06:14,584 - INFO - No separator found, using language detection
+2025-06-19 23:06:14,585 - INFO - Final extraction: 0 English, 2 Khmer texts
+2025-06-19 23:06:14,585 - INFO - Extracted 0 English and 2 Khmer texts
+2025-06-19 23:06:14,585 - INFO - Processing URL 17/22: https://uat.moc.gov.kh/kh/news/2528
+2025-06-19 23:06:14,585 - INFO - Scraping URL: https://uat.moc.gov.kh/kh/news/2528
+2025-06-19 23:06:15,933 - INFO - Found 3 paragraph blocks
+2025-06-19 23:06:15,935 - INFO - No separator found, using language detection
+2025-06-19 23:06:15,936 - INFO - Final extraction: 1 English, 1 Khmer texts
+2025-06-19 23:06:15,937 - INFO - Extracted 1 English and 1 Khmer texts
+2025-06-19 23:06:15,938 - INFO - Processing URL 18/22: https://uat.moc.gov.kh/kh/news/2527
+2025-06-19 23:06:15,939 - INFO - Scraping URL: https://uat.moc.gov.kh/kh/news/2527
+2025-06-19 23:06:17,323 - INFO - Found 2 paragraph blocks
+2025-06-19 23:06:17,325 - INFO - No separator found, using language detection
+2025-06-19 23:06:17,326 - INFO - Final extraction: 0 English, 2 Khmer texts
+2025-06-19 23:06:17,327 - INFO - Extracted 0 English and 2 Khmer texts
+2025-06-19 23:06:17,327 - INFO - Processing URL 19/22: https://uat.moc.gov.kh/kh/news/2516
+2025-06-19 23:06:17,328 - INFO - Scraping URL: https://uat.moc.gov.kh/kh/news/2516
+2025-06-19 23:06:18,732 - INFO - Found 2 paragraph blocks
+2025-06-19 23:06:18,733 - INFO - No separator found, using language detection
+2025-06-19 23:06:18,734 - INFO - Final extraction: 0 English, 2 Khmer texts
+2025-06-19 23:06:18,735 - INFO - Extracted 0 English and 2 Khmer texts
+2025-06-19 23:06:18,736 - INFO - Processing URL 20/22: https://uat.moc.gov.kh/kh/news/2515
+2025-06-19 23:06:18,737 - INFO - Scraping URL: https://uat.moc.gov.kh/kh/news/2515
+2025-06-19 23:06:20,079 - INFO - Found 3 paragraph blocks
+2025-06-19 23:06:20,080 - INFO - No separator found, using language detection
+2025-06-19 23:06:20,080 - INFO - Final extraction: 0 English, 3 Khmer texts
+2025-06-19 23:06:20,080 - INFO - Extracted 0 English and 3 Khmer texts
+2025-06-19 23:06:20,081 - INFO - Processing URL 21/22: https://uat.moc.gov.kh/kh/news/2514
+2025-06-19 23:06:20,081 - INFO - Scraping URL: https://uat.moc.gov.kh/kh/news/2514
+2025-06-19 23:06:21,441 - INFO - Found 5 paragraph blocks
+2025-06-19 23:06:21,441 - INFO - No separator found, using language detection
+2025-06-19 23:06:21,442 - INFO - Final extraction: 0 English, 5 Khmer texts
+2025-06-19 23:06:21,442 - INFO - Extracted 0 English and 5 Khmer texts
+2025-06-19 23:06:21,443 - INFO - Processing URL 22/22: https://uat.moc.gov.kh/kh/news/2513
+2025-06-19 23:06:21,443 - INFO - Scraping URL: https://uat.moc.gov.kh/kh/news/2513
+2025-06-19 23:06:22,805 - INFO - Found 4 paragraph blocks
+2025-06-19 23:06:22,806 - INFO - No separator found, using language detection
+2025-06-19 23:06:22,807 - INFO - Final extraction: 0 English, 4 Khmer texts
+2025-06-19 23:06:22,807 - INFO - Extracted 0 English and 4 Khmer texts
+2025-06-19 23:06:22,808 - INFO - Results saved to 22lINK.csv
